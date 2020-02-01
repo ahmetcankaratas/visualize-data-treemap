@@ -1,0 +1,26 @@
+#title, #description {
+  text-align: center;
+}
+
+#graph svg{
+  display: block;
+  margin: auto;
+}
+
+.tile {
+  stroke:white;
+  stroke-width:2
+}
+
+#legend svg{
+  display: block;
+  margin: auto;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: khaki;
+  color: black;
+  padding: 5px;
+  border-radius: 5px;
+}
